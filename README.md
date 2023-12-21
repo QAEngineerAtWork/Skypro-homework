@@ -1,2 +1,2 @@
-# Skypro-homework
+## Skypro-homework
 Автоматизация тестирования. Домашка 1
