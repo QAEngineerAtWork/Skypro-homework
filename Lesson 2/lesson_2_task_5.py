@@ -9,8 +9,10 @@ def month_to_season(number:int):
         print("Лето")
     elif number in (9, 10,11):
         print("Осень")
+    else:
+        print("Некорректный ввод")
 
-number = 6
+number = 13
 
 month_to_season(number)
                 
